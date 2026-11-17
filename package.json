@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge: git smart HTTP, REST v3, GraphQL and MCP from one in-memory store.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"github-core-clone","private":true,"scripts":{"check":"node --check main.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
